@@ -1,6 +1,6 @@
 # Criação do esquema conceitual para o contexto de oficina com base na narrativa fornecida
 <html>
-<p> Levantamento de requisitos:
+<p> Levantamento de requisitos: <br>
 :exclamation: Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica <br>
 :exclamation:Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas <br>
 :exclamation:Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega.<br>
